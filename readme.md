@@ -1,3 +1,5 @@
+![Gif of the app](./intro.png)
+
 # ink-todo-cli
 
 ink-todo-cli is a CLI based todo application made with [ink](https://github.com/vadimdemedes/ink#israwmodesupported) and [typescript](https://www.typescriptlang.org/)
