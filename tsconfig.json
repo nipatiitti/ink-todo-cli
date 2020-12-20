@@ -1,0 +1,26 @@
+{
+	"compilerOptions": {
+		"jsx": "react",
+		"esModuleInterop": true,
+		"outDir": "dist",
+		"target": "es2018", // Node.js 10
+		"module": "commonjs",
+		"moduleResolution": "node",
+		"resolveJsonModule": true,
+		"declaration": true,
+		"pretty": true,
+		"newLine": "lf",
+		"stripInternal": true,
+		"strict": true,
+		"noImplicitReturns": true,
+		"noUnusedLocals": true,
+		"noUnusedParameters": true,
+		"noFallthroughCasesInSwitch": true,
+		"noUncheckedIndexedAccess": true,
+		"noEmitOnError": true,
+		"useDefineForClassFields": true,
+		"forceConsistentCasingInFileNames": true,
+		"skipLibCheck": true
+	},
+	"include": ["source"]
+}

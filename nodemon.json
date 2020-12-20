@@ -1,0 +1,9 @@
+{
+	"ignore": [".git", "node_modules/", "dist/", "coverage/"],
+	"watch": ["source/"],
+	"exec": "yarn build && node ./dist/todo.js",
+	"env": {
+		"NODE_ENV": "development"
+	},
+	"ext": "js,json,ts,tsx"
+}
