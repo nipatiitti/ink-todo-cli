@@ -1,4 +1,4 @@
-![Gif of the app](./intro.png)
+![Gif of the app](./intro.gif)
 
 # ink-todo-cli
 
