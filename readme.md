@@ -22,6 +22,24 @@ todo
 
 command
 
+## Development
+
+To help with development you have to first
+
+```bash
+yarn install
+```
+
+(or `npm install`)
+
+And then you can run
+
+```
+yarn dev
+```
+
+Which will start development version with automatic reloads
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
