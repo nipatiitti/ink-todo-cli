@@ -11,7 +11,7 @@ For state management [RTK](https://redux-toolkit.js.org/) was used
 To install with yarn
 
 ```bash
-yarn global add cli-todo
+yarn global add ink-todo-cli
 ```
 
 ## Usage
