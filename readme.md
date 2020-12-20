@@ -1,6 +1,6 @@
-# TODO-CLI
+# ink-todo-cli
 
-TODO-cli is a CLI based todo application made with [ink](https://github.com/vadimdemedes/ink#israwmodesupported) and [typescript](https://www.typescriptlang.org/)
+ink-todo-cli is a CLI based todo application made with [ink](https://github.com/vadimdemedes/ink#israwmodesupported) and [typescript](https://www.typescriptlang.org/)
 
 For state management [RTK](https://redux-toolkit.js.org/) was used
 
@@ -9,7 +9,7 @@ For state management [RTK](https://redux-toolkit.js.org/) was used
 To install with yarn
 
 ```bash
-yarn global install cli-todo
+yarn global add cli-todo
 ```
 
 ## Usage

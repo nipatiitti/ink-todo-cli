@@ -1,7 +1,10 @@
 {
-	"name": "cli-todo",
-	"version": "0.0.0",
+	"name": "ink-todo-cli",
+	"version": "1.0.0",
 	"license": "MIT",
+	"repository": {
+		"url": "https://github.com/nipatiitti/ink-todo-cli"
+	},
 	"bin": {
 		"todo": "dist/todo.js"
 	},
