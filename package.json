@@ -2,7 +2,9 @@
 	"name": "cli-todo",
 	"version": "0.0.0",
 	"license": "MIT",
-	"bin": "dist/todo.js",
+	"bin": {
+		"todo": "dist/todo.js"
+	},
 	"engines": {
 		"node": ">=10"
 	},
